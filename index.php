@@ -1,4 +1,2 @@
 <?php
-
-phpinfo();
-
+my name is payel
