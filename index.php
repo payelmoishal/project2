@@ -1,2 +1,3 @@
 <?php
-my name is payel
+
+phpinfo();
