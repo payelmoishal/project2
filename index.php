@@ -1,1 +1,3 @@
-bdakjsdhk
+<?php
+
+phpinfo();
